@@ -10,7 +10,9 @@ const config = {
   logo: "/images/lol.jpg",
   domain: "https://geoffreyjount.vercel.app",
   // links to the pages you want to link to in the navbar and in the footer
-  navLinks: [{ href: "/about", name: "about" }],
+  navLinks: [
+    { href: "/math", name: "math" },
+  ],
   // navbarTitle: {
   //   text: "Your custom title here",
   //   logo: "/images/your-logo.svg", // optional
